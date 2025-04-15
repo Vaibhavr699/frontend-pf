@@ -78,15 +78,15 @@ export const HeroSection = () => {
           {/* Text Content */}
           <div className="max-w-4xl mx-auto">
             <h1 className="font-serif text-3xl md:text-5xl text-center mt-6 tracking-wide">
-              Hello, I'm Vaibhav Raj
+              Hello, I&apos;m Vaibhav Raj
             </h1>
             <p className="mt-3 text-white/50 text-center md:text-lg">
               Your friendly neighbourhood software developer from India! I am a
               passionate and creative tech geek and software developer. I create
               engaging and user-friendly digital experiences. I have a keen eye
-              for design and a love for coding and I'm constantly striving to
-              push the boundaries of what's possible in the digital realm. Feel
-              free to catch me while I'm surfing the web!
+              for design and a love for coding and I&apos;m constantly striving to
+              push the boundaries of what&apos;s possible in the digital realm. Feel
+              free to catch me while I&apos;m surfing the web!
             </p>
           </div>
 
@@ -101,7 +101,7 @@ export const HeroSection = () => {
             <a href="mailto:vaibhavr699@gmail.com">
               <button className="inline-flex items-center gap-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl z-10">
                 <span>👋</span>
-                <span className="font-semibold">Let's Connect</span>
+                <span className="font-semibold">Let&apos;s Connect</span>
               </button>
             </a>
           </div>
